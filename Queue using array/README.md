@@ -8,4 +8,4 @@
 
 (b) Delete an element from the queue.
 
-(c) Peek an element from the stack.
+(c) Peek an element from the queue.
