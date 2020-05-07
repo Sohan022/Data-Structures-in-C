@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-**Queue using array and linked list having the following features:**
+**Queue using array having the following features:**
 
 (a) Insert an element to the queue.
 
