@@ -2,7 +2,7 @@
 
 ## Description
 
-**The above code supports the following operations:**
+**The above code having the following operations:**
 
 (a) Insert an element in the AVL tree.
 
