@@ -20,9 +20,7 @@
 
 (h) Search an element from the list given the index of the node.
 
-(i) Get the n
-
-th node of the list.
+(i) Get the n<sup>th</sup> node of the list.
 
 (j) Get the n<sup>th</sup> node from the end of the list.
 
