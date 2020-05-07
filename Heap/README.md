@@ -2,7 +2,7 @@
 
 # Description
 
-**The above code(heap data structure) supports the following operations:**
+**The above code(heap data structure) having the following operations:**
 
 (a) Insert an element to the heap.
 
